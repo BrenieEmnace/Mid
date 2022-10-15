@@ -1,0 +1,32 @@
+{
+    "shoes": [
+        {
+            "brand": "Nike",
+            "size": "42",
+            "price": "2500",
+            "color": "Blue",
+            "id": 1
+        },
+        {
+            "brand": "Adidas",
+            "size": "45",
+            "price": "1200",
+            "color": "Black",
+            "id": 2
+        },
+        {
+            "brand": "Puma",
+            "size": "38",
+            "price": "5000",
+            "color": "white",
+            "id": 3
+        },
+        {
+            "brand": "Under Armour",
+            "size": "43",
+            "price": "500",
+            "color": "Pink",
+            "id": 4
+        }
+    ]
+}
